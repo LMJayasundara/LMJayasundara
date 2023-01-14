@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## Hello Everyone, 👋 I'm Saravanan!!
 - :computer: Polyglot Programmer, Technology blogger, DevOps Evangelist, Cloud Automation Specialist and DevOps Architect 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - Hecktoberfest 2022 Contribution Badges
   
 ![@Saravanan's Hacktoberfest board](https://user-images.githubusercontent.com/7605658/197239886-e7908edd-3a77-4573-86dd-47132eca47ff.png)
-
+-->
  
 <!--
 ![Saravanan's github stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=default)
