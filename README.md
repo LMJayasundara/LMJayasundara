@@ -1,4 +1,7 @@
 ### Hello Everyone, 👋 I'm Lahiru!!
+- 📫 Checkout the footprint on Public and Community Profiles to reach me...
+  - [LinkedIn](https://www.linkedin.com/in/lahirujayasundara/)
+  - [Stack Overflow](https://stackoverflow.com/users/17279324/lahiru-jayasundara)
 
 <!--
 **LMJayasundara/LMJayasundara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
