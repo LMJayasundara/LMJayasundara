@@ -5,7 +5,7 @@
 ### Senior Software Engineer · Full-Stack · AWS Serverless · AI Agents
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lahirujayasundara-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahirujayasundara/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-madushanx.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.lahirumadushan.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lahirumadushan.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.lahirumadushan.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-lahiru--jayasundara-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17279324/lahiru-jayasundara)
 [![Email](https://img.shields.io/badge/Email-jmlahirujayasundara@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jmlahirujayasundara@gmail.com)
 
