@@ -1,69 +1,128 @@
-### Hello Everyone, 👋 I'm Lahiru!!
-- 📫 Checkout the footprint on Public and Community Profiles to reach me...
-  - [LinkedIn](https://www.linkedin.com/in/lahirujayasundara/)
-  - [Stack Overflow](https://stackoverflow.com/users/17279324/lahiru-jayasundara)
+<div align="center">
 
-<!--
-**LMJayasundara/LMJayasundara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Lahiru Madushan
 
-Here are some ideas to get you started:
+### Senior Software Engineer · Full-Stack · AWS Serverless · AI Agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lahirujayasundara-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahirujayasundara/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-madushanx.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.madushanx.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-lahiru--jayasundara-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17279324/lahiru-jayasundara)
+[![Email](https://img.shields.io/badge/Email-jmlahirujayasundara@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jmlahirujayasundara@gmail.com)
 
+</div>
 
-## Hello Everyone, 👋 I'm Saravanan!!
-- :computer: Polyglot Programmer, Technology blogger, DevOps Evangelist, Cloud Automation Specialist and DevOps Architect 
-- 💬 Focusing on... 
-  - Automation using Infra as Code (Docker, Chef, Ansible, Terraform, Kubernetes, AWS Cloudformation, Azure Resource Manager)
-  - E2E Pipeline setup using, Jenkins, GitHub Actions and Azure Pipeline
-  - Google Assistant Actions Development
-  - Alexa Skills Development
-  - DevOps and Automated self-healing systems
-- 📫 Checkout the footprint on Public and Community Profiles to reach me...
-  - [LinkedIn](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)
-  - [DEV Community](https://dev.to/chefgs)
-  - [Stack Overflow](https://stackoverflow.com/users/4923204/saravanan-g?tab=profile)
-- :mailbox: g.gsaravanan@gmail.com
-- :earth_asia: Checkout Personal Website <a href=https://www.gsaravanan.dev/ target="_blank">gsaravanan.dev</a> for my work
-- Feel free to add :star: to the repo, if you like the work
-- Social Footprints: [![Twitter Badge](https://img.shields.io/badge/-@saransid-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/saransid)](https://twitter.com/saransid) [![Linkedin Badge](https://img.shields.io/badge/-Saravanan%20Gnanaguru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919) [![Medium Badge](https://img.shields.io/badge/-@g.gsaravanan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@g.gsaravanan/)](https://g-gsaravanan.medium.com/)
- [![Stack Overflow Badge](https://img.shields.io/badge/-Saravanan%20G-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/4923204/saravanan-g)
+---
 
-- GitHub Profile Stats :point_down:
+## 🧑‍💻 About Me
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=chefgs)    ![Followers](https://img.shields.io/github/followers/chefgs)
+- 🔭 Currently working as **Senior Software Engineer** at **Vega Innovations**
+- 🤖 Building **AI-powered applications** with Amazon Bedrock, LangChain & Hugging Face
+- ☁️ Specializing in **AWS Serverless architecture** — Lambda, Amplify Gen2, ECS, Bedrock
+- ⚡ Developing **OCPP-compliant EV charger software** cross-compiled for Linux, Windows & macOS
+- 🛠️ Daily AI workflow: **Cursor · Claude · Google AI Studio · NotebookLM**
+- 🌍 Based in **Dambulla, Sri Lanka**
 
-  ![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=default)
+---
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&langs_count=5&theme=dark)
+## 🚀 Tech Stack
 
-- Hecktoberfest 2022 Contribution Badges
-  
-![@Saravanan's Hacktoberfest board](https://user-images.githubusercontent.com/7605658/197239886-e7908edd-3a77-4573-86dd-47132eca47ff.png)
--->
- 
-<!--
-![Saravanan's github stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=default)
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="gmail logo" width="19" style="vertical-align:bottom"/> Email](mailto:g.gsaravanan@gmail.com)
-https://img.shields.io/github/stars/chefgs?logo=Stars
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&layout=compact)
-[![Saravanan's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/chefgs)
-**chefgs/chefgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👯 Contributions collabration
--->
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Electron.js](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+**Cloud & AI**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LiveKit](https://img.shields.io/badge/LiveKit-0F62FE?style=flat-square&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🤖 **Multi-Modal AI Chatbot Suite** | Serverless AI chatbot with voice, multi-region model routing & knowledge base Q&A | Bedrock · LiveKit · LangChain · Lambda |
+| 🎙️ **AI Interview Agent Platform** | Real-time AI conducts interviews over WebRTC and generates structured reports | Next.js · Python · WebRTC · ECS |
+| 🧑‍💼 **Automated Recruitment Platform** | CV parsing, AI scoring, automated interviews & Kanban board for hiring | Bedrock · LangChain · Lambda · S3 |
+| 🖥️ **Remote Device Manager** | Secure terminal, file manager & system monitoring for remote IoT devices | NestJS · WebRTC · WebSocket · ECS |
+| ⚡ **OCPP EV Charger Software** | OCPP-compliant charger firmware cross-compiled for Linux, Windows & macOS | Node.js · TypeScript · NestJS · OCPP |
+| 🔒 **Serverless Website + WAF** | Production Next.js site with AWS WAF, SEO & Google Analytics | Next.js · CloudFront · WAF · Amplify |
+
+---
+
+## 📦 Open Source
+
+[![augment-nodejs](https://img.shields.io/badge/npm-augment--nodejs-CB3837?style=flat-square&logo=npm&logoColor=white)](https://github.com/LMJayasundara/augment-nodejs)
+[![random-nodejs](https://img.shields.io/badge/npm-random--nodejs-CB3837?style=flat-square&logo=npm&logoColor=white)](https://github.com/LMJayasundara/random-nodejs)
+
+> 📥 1,500+ combined downloads · ⭐ Zero reported issues
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **1st Runner-up** — New Product Development Competition, BIZ 2020
+- ⚡ **50% performance boost** — Compiled Node.js project to native binary
+- 🛠️ **50% productivity increase** — Built in-house remote device manager, eliminating third-party costs
+- 📦 **1,500+ downloads** — Open source NPM packages with zero reported issues
+- 👨‍🏫 **Mentored** junior developers, improving team code quality by 30%
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=LMJayasundara&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a90d9&icon_color=4a90d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LMJayasundara&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4a90d9)
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+- 🏅 Meta Certified — React Basics *(Coursera, 2024)*
+- 🏅 Meta Certified — Programming in Python *(Coursera, 2024)*
+- 🏅 Udemy — Machine Learning & Self-Driving Cars *(2024)*
+- 🏅 LinkedIn — Advanced Node.js *(2023)*
+- 🏅 LinkedIn — Building Cross Platform Desktop Apps *(2022)*
+
+---
+
+<div align="center">
+
+*"I build things end to end — from architecture to deployment."*
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=LMJayasundara.LMJayasundara)
+
+</div>
